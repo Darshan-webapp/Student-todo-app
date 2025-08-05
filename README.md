@@ -21,8 +21,10 @@ And after that i build the docker image and install jenkins inside it.
 
 <img width="1561" height="829" alt="Image" src="https://github.com/user-attachments/assets/14834c7d-1404-4f2a-bf49-2e892f34adc4" />
 
+This is the Jenkins Dashboard
 <img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/a8484a2b-4ca4-4c61-a5c0-dd942a52e408" />
 
+This is the running container.
 <img width="1894" height="382" alt="Image" src="https://github.com/user-attachments/assets/6e6f5de9-7083-4301-ae14-2d2f6dc01976" />
 
 <img width="1051" height="683" alt="Image" src="https://github.com/user-attachments/assets/7796d4cd-70e7-4b22-b21f-481586592303" />
@@ -31,6 +33,8 @@ And after that i build the docker image and install jenkins inside it.
 
 <img width="1241" height="756" alt="Image" src="https://github.com/user-attachments/assets/bf243b74-21a5-4d57-8b9f-ba33663240c4" />
 
+This is the successfull build after jenkins pulled the latest code from my GitHub repository.
 <img width="1919" height="988" alt="Image" src="https://github.com/user-attachments/assets/65b8dc0c-c59b-4a3e-93a6-e06d1f1ffbc0" />
 
+As you can see that my web app is runnig on local 8080
 <img width="1903" height="743" alt="Image" src="https://github.com/user-attachments/assets/181f0dc1-d402-4412-9f31-9a5cbec0b8de" />
